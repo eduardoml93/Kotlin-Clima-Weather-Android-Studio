@@ -1,6 +1,6 @@
 # App de Clima - Busca por Cidade
 
-Mantenha-se informado sobre o clima da sua cidade com o App de Clima. Com uma interface elegante e fácil de usar, você pode obter informações detalhadas sobre as condições meteorológicas atuais em apenas alguns toques.
+Mantenha-se informado sobre o clima da sua cidade com o App de Clima. Com uma interface simples e fácil de usar, você pode obter informações detalhadas sobre as condições meteorológicas atuais em apenas alguns toques.
 
 ## Funcionalidades:
 
